@@ -46,6 +46,4 @@ Deploy the app to Github pages or Netlify.
 
 ---
 
-### Made with :orange_heart: in Berlin by @CodeWithDragos
 
-© 2019 - 2020 CodeWithDragos. All Rights Reserved.
