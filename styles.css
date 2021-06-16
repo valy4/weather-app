@@ -1,15 +1,21 @@
-* {
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
 }
-
 .app {
   background-image: url(./cold.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom;
+  max-width: 100%;
+  height: auto;
 }
 
 .warm {
   background-image: url(./warm.jpeg);
+  background-size: cover;
 }
 
 .main {
